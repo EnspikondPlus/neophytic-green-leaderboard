@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/enspikondplus/neophytic-green-agent@sha256:13796a84c1748b23bb4493ae0567b2207c2f287acc3c4a6ae493814ee3871b2c",
+    "solver": "ghcr.io/enspikondplus/neophytic-purple-rooms-baseline@sha256:431a76a8cef254237ac661e409c42bd0b211d126b12c33cc165cec94abf628c1",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-16T07:23:35Z",
+  "github_actions": {
+    "run_url": "https://github.com/EnspikondPlus/neophytic-green-leaderboard/actions/runs/21058669590",
+    "run_logs_url": "https://api.github.com/repos/EnspikondPlus/neophytic-green-leaderboard/actions/runs/21058669590/logs",
+    "ref": "refs/heads/baseline",
+    "sha": "e55ac67e3328f5d24f1ac2425f853afcbab54254",
+    "repository_url": "https://github.com/EnspikondPlus/neophytic-green-leaderboard",
+    "workflow_ref": "EnspikondPlus/neophytic-green-leaderboard/.github/workflows/run-scenario.yml@refs/heads/baseline",
+    "workflow_sha": "e55ac67e3328f5d24f1ac2425f853afcbab54254"
+  }
+}
