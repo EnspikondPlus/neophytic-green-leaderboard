@@ -1,0 +1,19 @@
+[green_agent]
+agentbeats_id = "019bc574-f056-7ae3-9f68-3d7dfd5b92bf"
+
+env = { LOG_LEVEL = "INFO" }
+
+[[participants]]
+name = "solver"
+agentbeats_id = "019bc594-9d71-7442-9a60-cc20a90d34e1"
+env = {}
+
+[config]
+encoding = "089000000c0c0000000000000"
+
+max_steps = 50
+steps_remaining = 30
+obs_inspect_weight = 3.0
+failure_show = true
+failure_consequence = false
+commit_reset = false
